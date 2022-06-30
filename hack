@@ -89,12 +89,11 @@ function tick(msgIndex, msgCount)
 {   
     var messages =  [ 
         "CAN YOU HACK IT?   CAN YOU HACK IT?   ",
-        "MARTECH   DSSP   PLATFORM   MARTECH   DSSP   PLATFORM   ",
         "CAN YOU HACK IT?   CAN YOU HACK IT?   ",
-        "@CVS   @CVS   @CVS   @CVS   @CVS   @CVS   @CVS   ",                  
-        "MARTECH   MARTECH   MARTECH   ", 
-        "DSSP   DSSP   DSSP   DSSP   DSSP   ",
-        "PLATFORM   PLATFORM   PLATFORM   "
+        "MARTECH   DSSP   PLATFORM   EHIP   ",                 
+        "DSSP   PLATFORM   EHIP   MARTECH   ", 
+        "PLATFORM   EHIP   MARTECH   DSSP   ",
+        "EHIP   MARTECH   DSSP   PLATFORM   "
     ];
     var MSG_COUNT = 40;
 
